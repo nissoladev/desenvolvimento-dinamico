@@ -23,7 +23,7 @@ for (let i = 0; i < lista.length; i++) {
     if (z < lista[i]){
     z = lista[i];
     }
-};
+}
 
 console.log(`O maior valor contido no array é: ` + z);
 
